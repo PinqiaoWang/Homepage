@@ -1,3 +1,4 @@
+@@ -1,14 +1,13 @@
 ---
 title: "FinRobot: AI Agent for Equity Research and Valuation with Large Language Models"
 collection: publications
