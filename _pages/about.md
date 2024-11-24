@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ About
 ======
 I am a second-year Master's Student at [Columbia University](https://www.gsas.columbia.edu/), and I am currently a Departmental Research Assistant with [Prof. Bruce Yang](https://www.linkedin.com/in/brucehy/) and [Prof. Christina Wang](https://shanghai.nyu.edu/academics/faculty/directory/christina-dan-wang). I obtained my bachelor’s degree in statistics and economics from the [University of North Carolina at Chapel Hill](https://www.unc.edu/), where I worked with [Prof. Yufeng Liu](https://yfliu.web.unc.edu/). 
 
-<span style="color:red;">I am currently looking for PhD positions in 2025 Fall(Spring), full-time RA positions(starting in Spring 2025), and internships in summer 2025.</span>
+<span style="color:red;">I am currently looking for - **PhD positions** in 2025 Fall(Spring), - **full-time RA positions**(starting in Spring 2025), and - **internships** in summer 2025.</span>
 
 Research Interest
 ======
