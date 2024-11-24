@@ -16,10 +16,10 @@ I am a second-year Master's Student at [Columbia University](https://www.gsas.co
 Research Interest
 ======
 Develop Quantitative Methods to understand agent behaviors for designing efficient algorithmic-based systems of LLM and to create reliable agent-based applications in 1)Finance (stock market/Predictive models/Equity research), 2)Statistical Imaging, and other potential fields.
-• ML/AI, NLP
-• Multi-Agent Systems
-• LLM Reasoning
-• AI Application
+- ML/AI, NLP
+- Multi-Agent Systems
+- LLM Reasoning
+- AI Application
 
 News
 ======
