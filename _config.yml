@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Pinqiao's Homepage"
 title_separator          : "-"
 name                     : &name "Pinqiao Wang"
-description              : &description "AI/ML Researcher/Applying for PhD positions."
+description              : &description "AI/ML Researcher"
 URL                      : "https://pinqiaowang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "pw.jpg"
   name             : "Pinqiao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "AI/ML Researcher/Applying for PhD positions."
+  bio              : "AI/ML Researcher"
   location         : "New York City, US"
-  employer         : "Columbia University/UNC-Chapel Hill"
+  employer         : "Columbia University / UNC-Chapel Hill"
   uri              : # URL
   email            : "pw2594@columbia.edu" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :  "http://orcid.org/0009-0000-4325-6389"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         :  "pinqiao-wang"
   mastodon         : # URL
-  medium           : "Pinqiao Wang"
+  medium           : "pinqiao2001"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
