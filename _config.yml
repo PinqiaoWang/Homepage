@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "AI/ML Researcher"
   location         : "New York City, US"
-  employer         : "Columbia University / UNC-Chapel Hill"
+  employer         : "Columbia University / UNC-CH"
   uri              : # URL
   email            : "pw2594@columbia.edu" 
 
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         :  "pinqiao-wang"
   mastodon         : # URL
-  medium           : "pinqiao2001"
+  medium           : "@pinqiao2001"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
