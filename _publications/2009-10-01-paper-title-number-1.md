@@ -1,5 +1,5 @@
 ---
-title: "FinRobot: AI Agent for Equity Research and Valuation with Large Language Models"
+title: ""
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
