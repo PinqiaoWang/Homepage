@@ -1,9 +1,9 @@
 ---
-title: "FinRobot: AI Agent for Equity Research and Valuation with Large Language Models"
+title: 'FinRobot: AI Agent for Equity Research and Valuation with Large Language Models'
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-
-excerpt: 'It is developing a multi-layer/multi-agent debate reinforcement algorithm in a chain-of-thought prompting setting that can reliably and stably produce complete equity research reports after training with industry knowledge.  ACM ICAIF'24 has accepted my first-authored paper on this as an Oral Presentation. Our next step in to work on Graph Multi-Agent/ Visual LLM.'
+excerpt: 'It is developing a multi-layer/multi-agent debate reinforcement algorithm in a chain-of-thought prompting setting that can reliably and stably produce complete equity research reports after training with industry knowledge.  ACM ICAIF'24 has accepted my first-authored paper on this as an Oral Presentation. Our next step is to work on Graph Multi-Agent/ Visual LLM.'
 date: 2024-11-03
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/Oral_Presentation_ICAIF_24.pdf'
